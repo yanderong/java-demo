@@ -5,7 +5,7 @@
   "functionRoot": "./functions",
   "functions": [
     {
-      "name": "java-demo",
+      "name": "java-test",
       "timeout": 5,
       "runtime": "Java8",
       "memorySize": 512,
